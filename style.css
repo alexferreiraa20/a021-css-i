@@ -1,0 +1,52 @@
+article{
+    display: block;
+    width: 200px;
+
+}
+
+main{
+    font-family:  Helvetica, sans-serif;
+}
+
+h1{
+    height: 0.313rem;
+}
+.bloco{
+    width: 31.25rem ;
+    padding: 0.938rem;
+    color:white;
+    margin: 0.938rem;
+    text-align: center;
+}
+
+#bloco-1{
+    border: 0.125rem solid black;
+    background-color: #FFB319;
+    border-width: 0.400rem;
+    border-color: #bd9619;
+    font-size: 1.25rem;
+}
+
+#bloco-2{
+    border: 0.125rem solid black;
+    background-color: #00d648;
+    border-width: 0.400rem;
+    border-color: #00b03b;
+    font-size: 1.25rem;
+}
+#bloco-3{
+    border: 0.125rem dashed black;
+    background-color: #004718;
+    border-width: 0.400rem;
+    border-color: #00d648;
+    font-size: 1.25rem;
+}
+#bloco-4{
+    border: 0.125rem dashed black;
+    background-color: #cf0000;
+    border-width: 0.400rem;
+    border-color: #bd9619;
+    font-size: 1.25rem;
+}
+
+
